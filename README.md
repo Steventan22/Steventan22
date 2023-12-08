@@ -7,7 +7,7 @@ I'm Steven Marcelino Tandiono, a A fifth-semester Information Systems student, I
 - 🎓 Currently pursuing a major in Information Systems with a minor in Big Data Analytics at Universitas Multimedia Nusantara.
 - 💡 Exploring the realms of Data Science, Data Analyst, Data Visualization, and Machine Learning.
 - 🌱 Always eager to learn and adapt to new technologies.
-- 🤔 Actively seeking opportunities to collaborate on interesting projects.
+- 🤔 Actively seeking internship opportunities to integrate my academic knowledge with practical experience.
 
 ## 🛠️ Skills
 
