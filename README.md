@@ -1,4 +1,4 @@
-# Hi there! 👋 Wellcome to my profile page
+# Hi there! 👋 Welcome to my profile page
 
 I'm Steven Marcelino Tandiono, a A fifth-semester Information Systems student, I have a keen interest in big data analysis and business intelligence. Currently delving into the realms of data engineering, data analysis, and machine learning, I am particularly passionate about designing data-driven solutions to comprehend and enhance business processes. Proficient in data manipulation and developing machine learning models.
 
